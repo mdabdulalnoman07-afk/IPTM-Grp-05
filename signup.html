@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up</title>
+</head>
+<body>
+
+    <header>
+        <h1>Sign Up</h1>
+    </header>
+
+    <main>
+        <form onsubmit="alert('Validation Successful! Now we would typically send this data to a backend server.'); return false;">
+            
+            <div>
+                <label for="full-name">Full Name</label><br>
+                <input type="text" id="full-name" name="full-name" placeholder="Your Name" required>
+            </div>
+
+            <br>
+
+            <div>
+                <label for="email">Email Address</label><br>
+                <input type="email" id="email" name="email" placeholder="example@mail.com" required>
+            </div>
+
+            <br>
+
+            <div>
+                <label for="password">Password</label><br>
+                <input type="password" id="password" name="password" minlength="8" required>
+                <small>Must be at least 8 characters</small>
+            </div>
+
+            <br>
+
+            <div>
+                <input type="checkbox" id="terms" required>
+                <label for="terms">I agree to the <a href="#">Terms of Service</a></label>
+            </div>
+
+            <br>
+
+            <button type="submit">Create Account</button>
+        </form>
+
+        <hr>
+
+        <footer>
+            <p>Already have an account? <a href="signin.html">Sign In here</a></p>
+        </footer>
+    </main>
+
+</body>
+</html>

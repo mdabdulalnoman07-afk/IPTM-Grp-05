@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign In</title>
+</head>
+<body>
+
+    <header>
+        <h1>Sign In</h1>
+    </header>
+
+    <main>
+        <form onsubmit="alert('Login Request Received! In a real website a backend would now check the database for this user and log them in.'); return false;">
+            
+            <div>
+                <label for="login-email">Email Address</label><br>
+                <input type="email" id="login-email" name="email" placeholder="example@mail.com" required>
+            </div>
+
+            <br>
+
+            <div>
+                <label for="login-password">Password</label><br>
+                <input type="password" id="login-password" name="password" required>
+            </div>
+
+            <br>
+
+            <div>
+                <input type="checkbox" id="remember">
+                <label for="remember">Remember me</label>
+            </div>
+
+            <br>
+
+            <button type="submit">Sign In</button>
+        </form>
+
+        <hr>
+
+        <footer>
+            <p>New here? <a href="signup.html">Create an account</a></p>
+        </footer>
+    </main>
+
+</body>
+</html>
