@@ -1,0 +1,48 @@
+const students = [
+  {
+    name: "Abdul Aziz",
+    id: "231031008",
+    batch: "30st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "231031008@feniuniversity.ac.bd",
+    cgpa: 3.00,
+  },
+  {
+    name: "Md Abdul Al Noman",
+    id: "232031044",
+    batch: "31st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "232031037@feniuniversity.ac.bd",
+    cgpa: 4.00,
+  },
+  {
+    name: "Mahdi Hasan",
+    id: "232031036",
+    batch: "31st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "232031036@feniuniversity.ac.bd",
+    cgpa: 4.00,
+  },
+  {
+    name: "Foysal Mahmud",
+    id: "232031039",
+    batch: "31st",
+    program: "BSc in CSE",
+    department: "Computer Science & Engineering",
+    university: "Feni University",
+    semester: "6th",
+    email: "232031039@feniuniversity.ac.bd",
+    cgpa: 3.60,
+  },
+];
+
+module.exports = students;
