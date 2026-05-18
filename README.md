@@ -29,19 +29,6 @@ npm start
 
 ---
 
-## 👥 Students Information
-
-This application is developed by **4 students** from Feni University:
-
-| Name | ID | Email | CGPA |
-|------|-------|-------|------|
-| **Md. Abdul Al Noman** | 232031044 | 232031044@feniuniversity.ac.bd | 3.69 |
-| **Mahdi Hasan** | 232031036 | 232031036@feniuniversity.ac.bd | 3.72 |
-| **Mushfiqur Rahman** | 232031037 | 232031037@feniuniversity.ac.bd | 3.40 |
-| **Foysal Mahmud** | 232031039 | 232031039@feniuniversity.ac.bd | 3.40 |
-
----
-
 ## 📋 Features
 
 ✅ **Create Todo** - Add new todos with title, description, and priority  
