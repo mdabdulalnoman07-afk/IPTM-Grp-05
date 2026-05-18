@@ -39,5 +39,3 @@ Updates an existing todo with new information by ID.
 Deletes a todo by ID.
 
 ![Delete Todo](./todo-api/screenshots/delete_todo.png)
-
----
