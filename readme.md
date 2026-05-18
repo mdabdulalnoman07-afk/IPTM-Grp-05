@@ -4,7 +4,7 @@
 
 Retrieves all todos from the database.
 
-![Get All Todos](./todo-api/screenshots/get_all_todos.png)
+![Get All Todos](./todo-api/screenshot/get_all_todos.png)
 
 ---
 
@@ -14,7 +14,7 @@ Retrieves todos within a specified ID range using query parameters.
 
 Example: `GET /todos?startId=1&endId=3`
 
-![Get Selective Todo](./todo-api/screenshots/selective_todos.png)
+![Get Selective Todo](./todo-api/screenshot/selective_todos.png)
 
 ---
 
@@ -22,7 +22,7 @@ Example: `GET /todos?startId=1&endId=3`
 
 Creates a new todo with title, description, and completion status.
 
-![Create Todo](./todo-api/screenshots/create_todo.png)
+![Create Todo](./todo-api/screenshot/create_todo.png)
 
 ---
 
@@ -30,7 +30,7 @@ Creates a new todo with title, description, and completion status.
 
 Updates an existing todo with new information by ID.
 
-![Update Todo](./todo-api/screenshots/update_todo.png)
+![Update Todo](./todo-api/screenshot/update_todo.png)
 
 ---
 
@@ -38,4 +38,4 @@ Updates an existing todo with new information by ID.
 
 Deletes a todo by ID.
 
-![Delete Todo](./todo-api/screenshots/delete_todo.png)
+![Delete Todo](./todo-api/screenshot/delete_todo.png)
