@@ -96,22 +96,8 @@ GET /api/todos
 
 **Response:**
 ```json
-{
-  "success": true,
-  "message": "All todos retrieved successfully",
-  "count": 2,
-  "data": [
-    {
-      "id": 1,
-      "title": "Learn Node.js",
-      "description": "Complete Node.js tutorial",
-      "priority": "high",
-      "status": "pending",
-      "createdAt": "2026-05-18T10:30:00.000Z",
-      "updatedAt": "2026-05-18T10:30:00.000Z"
-    }
-  ]
-}
+<img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/790b79cf-2367-4cb6-b405-74e786afbae5" />
+
 ```
 
 ### 2. Get Single Todo by ID
