@@ -290,22 +290,7 @@ curl -X DELETE http://localhost:5000/api/todos/1
 }
 ```
 
-### 7. Health Check
-
-```http
-GET /api/health
-```
-
-**Response:**
-```json
-{
-  "status": "OK",
-  "message": "Todo API is running",
-  "timestamp": "2026-05-18T10:45:00.000Z"
-}
-```
-
-### 8. Get Student Information
+### 7. Get Student Information
 
 ```http
 GET /api/team
