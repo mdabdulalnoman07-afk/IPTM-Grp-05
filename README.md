@@ -95,10 +95,8 @@ GET /api/todos
 ```
 
 **Response:**
-```
-[<img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/c1872af4-51c5-4fc8-80f1-949cd454e755" />
-](https://github.com/mdabdulalnoman07-afk/ITPM-Grp-05/blob/dev/232031044/image.png)
-```
+
+![Student Data Info](https://github.com/mdabdulalnoman07-afk/ITPM-Grp-05/blob/48fb672069bcbfab150ca052bf0a419379a0ab52/image.png?raw=true)
 
 ### 2. Get Single Todo by ID
 
