@@ -306,6 +306,9 @@ GET /api/team
 
 ## 🧪 Testing with Postman
 
+![Student Data Info](https://github.com/mdabdulalnoman07-afk/ITPM-Grp-05/blob/84d79edd5edcc7a776ae43933a1ee13258a6744c/image.png)
+
+
 ### Setup Postman
 1. Open Postman → Click "New" → Select "Collection"
 2. Name it → "Todo API Tests"
